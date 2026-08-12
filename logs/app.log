@@ -1,0 +1,7 @@
+2026-08-12 15:41:37,278 [INFO] __main__: script currency_rates start
+2026-08-12 15:41:37,278 [ERROR] api: EXCHANGE_RATE_API_KEY not found .env
+2026-08-12 15:41:49,662 [INFO] __main__: script currency_rates start
+2026-08-12 15:41:50,130 [INFO] exporter: JSON saved
+2026-08-12 15:41:50,133 [INFO] exporter: CSV saved
+2026-08-12 15:41:50,248 [INFO] exporter: XLSX saved
+2026-08-12 15:41:50,248 [INFO] root: Script currency_rates success

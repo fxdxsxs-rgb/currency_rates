@@ -1,0 +1,22 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE (например, PyCharm, VSCode)
+.idea/
+.vscode/
+*.iml
+
+# Системные файлы Windows
+Thumbs.db
+Desktop.ini
+
+# Файлы с секретами (например, .env)
+.env

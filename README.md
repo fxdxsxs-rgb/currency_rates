@@ -15,7 +15,7 @@
     ```
     py -3.13 -m venv .venv
     .venv\Scripts\Activate.ps1 (Активация в Windows)
-    source .venv/bin/activate (Активация в Linux
+    source .venv/bin/activate (Активация в Linux)
     
     python -m pip install --upgrade pip
     pip install -r requirements.txt
